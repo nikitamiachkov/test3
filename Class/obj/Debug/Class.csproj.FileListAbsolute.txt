@@ -1,0 +1,6 @@
+D:\Students\NGK\0202mdk\подготовка\unit\Class\Class\bin\Debug\Class.dll
+D:\Students\NGK\0202mdk\подготовка\unit\Class\Class\bin\Debug\Class.pdb
+D:\Students\NGK\0202mdk\подготовка\unit\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+D:\Students\NGK\0202mdk\подготовка\unit\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\Students\NGK\0202mdk\подготовка\unit\Class\Class\obj\Debug\Class.dll
+D:\Students\NGK\0202mdk\подготовка\unit\Class\Class\obj\Debug\Class.pdb
